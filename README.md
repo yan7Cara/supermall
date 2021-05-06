@@ -1,4 +1,5 @@
-# 04supermali
+# 04supermall
+仿照蘑菇街做的app
 
 ## Project setup
 ```
